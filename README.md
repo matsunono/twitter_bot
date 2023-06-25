@@ -12,4 +12,5 @@ twitter API v2に対応した自動つぶやきBotです．
 * consumer_secret = 'piyopiyo'
 * access_token_key = 'hugahuga'
 * access_token_secret = 'hugahuga'
+
 この作業は今後は個人でAPI Keyを保存したファイルからの読み込みに変更予定です．
